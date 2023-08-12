@@ -1,6 +1,6 @@
 # Calculadora-Em-Java
-Calculadora em java puro
+Calculadora em java.
 
-O meu intuito é testar meus conhecimentos em java criando uma calculadora capaz de calcular: soma, subtração, divisão, raiz quadrada, porcentagem e multiplicação.
+Calculadora em java, capaz de fazer operações básicas como soma, subtração, divisão, multiplicação, e outras mais complexas como porcentagem e raiz quadrada.
 
 Jesus te ama!
