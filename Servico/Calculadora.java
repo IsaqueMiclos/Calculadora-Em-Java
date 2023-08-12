@@ -1,10 +1,6 @@
 public class Calculadora {
     //Jesus é o caminho, a verdade e a vida!!!
 
-    static {
-        System.out.println("Olá bem vindo, para usar a calculadora escolha entre 6 operadores, somar(+), porcentagem(%), subtrair(-), dividir(/), multiplicar(*) ou RaizQuadrada(RA)!");
-    }
-
     public void calcular(double numero01, String operacao, double numero02) {
         if (operacao == null || operacao == " ") {
             System.out.println("[ERRO] Identifique a operação desejada");
